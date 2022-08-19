@@ -25,8 +25,8 @@ global.gopay = '085732267014'
 
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙Alokbotzy-MD⳹ ❋ཻུ۪۪'
-global.gc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
-global.web = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.gc = 'https://chat.whatsapp.com/LDGE2cAFB6W03Ledpe1iLD'
+global.web = 'https://youtube.com/channel/UCPnhW7jPKqqiTVkL4Ra4K7w' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/Jarotr_'
 global.pulsa = '085732267014'
 global.nomer = 'https://wa.me/6285732267014' //ganti jadi nomor mu
