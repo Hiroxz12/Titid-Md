@@ -5,13 +5,13 @@
 // RECODE BY OSCAR OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6285732267014','6285714279344'] 
+global.owner = ['6285732267014','6285732267014'] 
 global.mods = [''] 
 global.prems = ['6285732267014'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'ᴹᴿ᭄ Hiro offcঔৣ꧂'
-global.numberowner = '6285732267014','6285714279344',
+global.numberowner = '6285732267014','6285732267014',
 global.instagram = 'https://instagram.com/Jarotr_'
 global.github = 'https://github.com/Alpiii22'
 global.Youtube = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
@@ -57,8 +57,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Alokbotzy'
-global.author = '@Hiro'
+global.packname = 'Create by'
+global.author = '©Hirookunzxy'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
