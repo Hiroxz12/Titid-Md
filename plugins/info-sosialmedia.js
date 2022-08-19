@@ -18,7 +18,7 @@ let jarot = `
            hydratedButtons: [{
              urlButton: {
                displayText: 'Youtube creator📨',
-               url: yt
+               url: https://youtube.com/channel/UCPnhW7jPKqqiTVkL4Ra4K7w
              }
 
            },
@@ -32,7 +32,7 @@ let jarot = `
                {
 urlButton: {
                displayText: 'Group Bot Creator📸',
-               url: gc
+               url: https://chat.whatsapp.com/LDGE2cAFB6W03Ledpe1iLD
              }
 
            },
