@@ -5,7 +5,7 @@ let krizyn = `
 •·––––––––––––––––––––––––––·•
 ❑ *Nama* : Syauqi
 ❑ *Umur* : 14 Tahun
-❑ *Kelas* : 8 Smp
+❑ *Kelas* : 8
 ❑ *Ulang Tahun* : 10 Februari 2009
 ❑ *Alamat* : Taman Rahayu Regency 1
 •·––––––––––––––––––––––––––·•
